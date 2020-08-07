@@ -1,0 +1,8 @@
+* Ctrlキー = ctl
+* Ctrlキー + mキー = ctl-m
+* ctl-m == Return
+* ctl-d == 入力終了シグナル
+* ctl-h == バックスペース
+* ctl-i == タブ
+* ctl-g == 端末のベルを鳴らす
+* ctl-c == BREAK or INTERUPT
